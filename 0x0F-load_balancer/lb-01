@@ -8,5 +8,4 @@ eval $("ssh-agent")
 ssh-add ~/.ssh/alx_key
 
 # Username and IP Address 
-ssh ubuntu@18.234.80.248
-
+ssh ubuntu@54.165.48.7
